@@ -34,7 +34,6 @@ function _GSPS2PDF(
       arguments: [
         "-sDEVICE=pdfwrite",
         "-dCompatibilityLevel=1.4",
-        "-dPDFSETTINGS=/ebook",
         "-sDEVICE=pdfwrite",
         "-dUseCropBox=false",
         "-dUseTrimBox=false",
